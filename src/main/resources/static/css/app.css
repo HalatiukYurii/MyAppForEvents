@@ -1,0 +1,9 @@
+.section {
+    margin-left: 5%;
+    float: left;
+    border-color: aqua;
+}
+
+p.error {
+    color: #FF0000
+}
